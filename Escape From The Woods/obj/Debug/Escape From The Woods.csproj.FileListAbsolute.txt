@@ -1,0 +1,9 @@
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\bin\Debug\Escape From The Woods.exe.config
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\bin\Debug\Escape From The Woods.exe
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\bin\Debug\Escape From The Woods.pdb
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\obj\Debug\Escape From The Woods.csprojAssemblyReference.cache
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\obj\Debug\Escape_From_The_Woods.Form1.resources
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\obj\Debug\Escape_From_The_Woods.Properties.Resources.resources
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\obj\Debug\Escape From The Woods.csproj.GenerateResource.cache
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\obj\Debug\Escape From The Woods.exe
+C:\Users\Arne\source\repos\Escape From The Woods\Escape From The Woods\obj\Debug\Escape From The Woods.pdb
